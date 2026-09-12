@@ -2,11 +2,6 @@
 
 **Última actualización:** 11 de septiembre de 2026
 **Versión:** 1.0
-
-> **Aviso:** este documento es una plantilla redactada sobre el funcionamiento real
-> de la aplicación. Debe ser revisado por un abogado antes de publicarse. Los
-> campos entre corchetes deben completarse.
-
 ---
 
 ## 1. Quiénes somos
